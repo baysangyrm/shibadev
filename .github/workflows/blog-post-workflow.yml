@@ -10,17 +10,6 @@ jobs:
     name: Обновление README последними блог постами
     runs-on: ubuntu-latest
     steps:      
-      - name: Обновление README
-        run: |
-          if [[ $(git status --porcelain) ]]; then
-            git config --global user.name 'github-actions[bot]'
-            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-            git add README.md
-            git commit -m "Обновление README последними блог постами"
-            git push
-          else
-            echo "Нет изменений для коммита"
-
       - name: Сборка и тестирование проекта
         run: |
           echo "Запуск тестов..."
