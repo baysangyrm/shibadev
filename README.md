@@ -35,7 +35,7 @@
 
 ## 🔗 Контакты
 
-- Email: [youremail@example.com](mailto:vadimshiva@duck.com)
+- Email: [Shiba Dev](mailto:vadimshiva@duck.com)
 
 
 ---
