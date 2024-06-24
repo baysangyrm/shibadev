@@ -4,7 +4,8 @@
   <h1 style="margin-left: 20px; font-size: 3em;">BitSquad Team</h1>
 </div>
 
-[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&redirect=true][![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+
 <h1>🛠 Технологии и инструменты</h1>
 
 **Frontend:** 
