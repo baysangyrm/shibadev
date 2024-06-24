@@ -44,7 +44,7 @@ jobs:
     if: failure()
     steps:
       - name: Отправка уведомления в Telegram
-        uses: appleboy/telegram-action@0.2.0
+        uses: appleboy/telegram-action@0.4.0
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
@@ -54,7 +54,6 @@ jobs:
             Коммит: ${{ github.sha }}
             Ошибка: ${{ job.status }}
             Проверьте логи для получения подробностей: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
   success:
     name: Уведомление об успешном выполнении
     runs-on: ubuntu-latest
@@ -62,7 +61,7 @@ jobs:
     if: success()
     steps:
       - name: Отправка уведомления в Telegram
-        uses: appleboy/telegram-action@0.2.0
+        uses: appleboy/telegram-action@0.4.0
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
@@ -71,7 +70,6 @@ jobs:
             Репозиторий: ${{ github.repository }}
             Коммит: ${{ github.sha }}
             Проверьте изменения: ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}
-
   clean_up:
     name: Очистка рабочей области
     runs-on: ubuntu-latest
