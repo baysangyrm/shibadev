@@ -1,3 +1,5 @@
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/rHMgMXF/Group-3.png" alt="Group-3" border="0"></a>
+
 ## 🛠 Технологии и инструменты
 
 - **Frontend:**
