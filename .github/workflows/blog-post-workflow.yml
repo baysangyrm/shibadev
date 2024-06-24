@@ -9,17 +9,7 @@ jobs:
   update-readme-with-blog:
     name: Обновление README последними блог постами
     runs-on: ubuntu-latest
-    steps:
-      - name: Клонирование репозитория
-        uses: actions/checkout@v2
-
-      - name: Получение последних блог постов
-        id: fetch_posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://analyticsindiamag.com/author/vasyagaming/feed/"
-      
+    steps:      
       - name: Обновление README
         run: |
           if [[ $(git status --porcelain) ]]; then
