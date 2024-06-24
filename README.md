@@ -4,6 +4,10 @@
   <h1 style="margin-left: 20px; font-size: 3em;">BitSquad Team</h1>
 </div>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3154juz6jwa2qxare7qyuuvee23i)
+</div>
+
 <h1>🛠 Технологии и инструменты</h1>
 
 **Frontend:** 
