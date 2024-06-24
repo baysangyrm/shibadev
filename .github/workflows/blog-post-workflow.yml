@@ -79,3 +79,4 @@ jobs:
       - name: Очистка ненужных файлов
         run: |
           git clean -fdx
+
