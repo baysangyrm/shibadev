@@ -7,11 +7,11 @@
 
 - **Frontend:**
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  - ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
-  - ![SASS](https://img.shields.io/badge/-SASS-333?style=flat-square&logo=sass)
-  - ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
+- ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
+- ![SASS](https://img.shields.io/badge/-SASS-333?style=flat-square&logo=sass)
+- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
 </div>
 
 - **Backend:**
