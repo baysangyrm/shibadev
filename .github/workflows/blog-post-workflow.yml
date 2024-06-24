@@ -44,7 +44,7 @@ jobs:
     if: failure()
     steps:
       - name: Отправка уведомления в Telegram
-        uses: appleboy/telegram-action@0.4.0
+        uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
@@ -61,7 +61,7 @@ jobs:
     if: success()
     steps:
       - name: Отправка уведомления в Telegram
-        uses: appleboy/telegram-action@0.4.0
+        uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
