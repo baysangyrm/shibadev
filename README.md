@@ -49,16 +49,4 @@
 
 _Этот профиль был создан с ❤️ by [Vadim Shiba](https://github.com/vadimshiba)_
 
----
-
-### :writing_hand: Blog Posts :
-
-
-
-        
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-  
 
