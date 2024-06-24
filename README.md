@@ -5,7 +5,7 @@
 </div>
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3154juz6jwa2qxare7qyuuvee23i)
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 </div>
 
 <h1>🛠 Технологии и инструменты</h1>
