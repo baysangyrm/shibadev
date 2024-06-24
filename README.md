@@ -1,5 +1,8 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/rHMgMXF/Group-3.png" alt="Group-3" border="0"></a>
 
+<div style="display: flex; align-items: center;">
+  <img src="https://i.ibb.co.com/2tf6rmZ/logo-black.png" alt="logo-black" border="0" height="100">
+  <h1 style="margin-left: 20px; font-size: 3em;">BitSquad Team</h1>
+</div>
 ## 🛠 Технологии и инструменты
 
 - **Frontend:**
