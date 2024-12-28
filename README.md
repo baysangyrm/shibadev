@@ -1,6 +1,5 @@
 
 <div style="display: flex; align-items: center;">
-  <img src="https://ibb.co.com/b6ZLqDk" alt="logo-black" border="0" height="100">
   <h1 style="margin-left: 20px; font-size: 3em;">BitSquad Team</h1>
 </div>
 
